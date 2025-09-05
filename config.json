@@ -84,7 +84,7 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
      "hnzy": {
       "api": "https://hnzyapi.com/api.php/provide/vod",
       "name": "火鸟资源",
